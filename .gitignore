@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.bak
+/work/
+/dubbed/
+skills/ai-dubbing-skill/fonts/extra/
+# dub scratch files, made again by dub.py
+skills/ai-dubbing-skill/examples/*/work/*/voice-cache/
+skills/ai-dubbing-skill/examples/*/work/*/*.wav
